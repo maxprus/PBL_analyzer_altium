@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_buttons|SchDesignator=U_buttons|FileName=buttons.SchDoc|SymbolType=Normal|RawFileName=buttons.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_lcd|SchDesignator=U_lcd|FileName=lcd.SchDoc|SymbolType=Normal|RawFileName=lcd.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_mcu|SchDesignator=U_mcu|FileName=mcu.SchDoc|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_power_supply|SchDesignator=U_power_supply|FileName=power_supply.SchDoc|SymbolType=Normal|RawFileName=power_supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_rs485|SchDesignator=U_rs485|FileName=rs485.SchDoc|SymbolType=Normal|RawFileName=rs485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_rtc|SchDesignator=U_rtc|FileName=rtc.SchDoc|SymbolType=Normal|RawFileName=rtc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
